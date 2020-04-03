@@ -1,0 +1,336 @@
+19:25:01.514 [main] INFO  StreamTest - About authors:
+
+19:25:01.518 [main] INFO  StreamTest - Author: Эрих Мария РемаркЭрих Мария Ремарк(72),
+72Author's books: Три товарища, Ночь в Лиссабоне 
+19:25:01.518 [main] INFO  StreamTest - Author: А. БурковА. Бурков(40),
+40Author's books: The Hundred-Page Machine Learning Book 
+19:25:01.518 [main] INFO  StreamTest - Author: И. ИльфИ. Ильф(39),
+39Author's books: Двенадцать стульев, Одноэтажная Америка 
+19:25:01.518 [main] INFO  StreamTest - Author: Е. ПетровЕ. Петров(40),
+40Author's books: Двенадцать стульев, Одноэтажная Америка 
+19:26:41.083 [main] INFO  StreamTest - About authors:
+
+19:26:41.086 [main] INFO  StreamTest - Author: Эрих Мария Ремарк(72),
+Author's books: Три товарища, Ночь в Лиссабоне 
+19:26:41.086 [main] INFO  StreamTest - Author: А. Бурков(40),
+Author's books: The Hundred-Page Machine Learning Book 
+19:26:41.086 [main] INFO  StreamTest - Author: И. Ильф(39),
+Author's books: Двенадцать стульев, Одноэтажная Америка 
+19:26:41.086 [main] INFO  StreamTest - Author: Е. Петров(40),
+Author's books: Двенадцать стульев, Одноэтажная Америка 
+19:27:34.701 [main] INFO  StreamTest - About authors:
+19:27:34.704 [main] INFO  StreamTest - Author: Эрих Мария Ремарк(72),
+Author's books: Три товарища, Ночь в Лиссабоне 
+19:27:34.704 [main] INFO  StreamTest - Author: А. Бурков(40),
+Author's books: The Hundred-Page Machine Learning Book 
+19:27:34.705 [main] INFO  StreamTest - Author: И. Ильф(39),
+Author's books: Двенадцать стульев, Одноэтажная Америка 
+19:27:34.705 [main] INFO  StreamTest - Author: Е. Петров(40),
+Author's books: Двенадцать стульев, Одноэтажная Америка 
+19:27:34.705 [main] INFO  StreamTest - About books:
+19:27:34.705 [main] INFO  StreamTest - Book 'Три товарища'
+Written by: Эрих Мария Ремарк(age 72) 
+19:27:34.705 [main] INFO  StreamTest - Book 'Ночь в Лиссабоне'
+Written by: Эрих Мария Ремарк(age 72) 
+19:27:34.706 [main] INFO  StreamTest - Book 'The Hundred-Page Machine Learning Book'
+Written by: А. Бурков(age 40) 
+19:27:34.706 [main] INFO  StreamTest - Book 'Двенадцать стульев'
+Written by: И. Ильф(age 39), Е. Петров(age 40) 
+19:27:34.706 [main] INFO  StreamTest - Book 'Одноэтажная Америка'
+Written by: И. Ильф(age 39), Е. Петров(age 40) 
+19:30:12.831 [main] INFO  StreamTest - About authors:
+
+19:30:12.834 [main] INFO  StreamTest - Author: Эрих Мария Ремарк(72),
+Author's books: Три товарища, Ночь в Лиссабоне 
+19:30:12.834 [main] INFO  StreamTest - Author: А. Бурков(40),
+Author's books: The Hundred-Page Machine Learning Book 
+19:30:12.834 [main] INFO  StreamTest - Author: И. Ильф(39),
+Author's books: Двенадцать стульев, Одноэтажная Америка 
+19:30:12.834 [main] INFO  StreamTest - Author: Е. Петров(40),
+Author's books: Двенадцать стульев, Одноэтажная Америка 
+19:30:12.834 [main] INFO  StreamTest - 
+
+About books:
+
+19:30:12.835 [main] INFO  StreamTest - Book 'Три товарища'
+Written by: Эрих Мария Ремарк(age 72) 
+19:30:12.835 [main] INFO  StreamTest - Book 'Ночь в Лиссабоне'
+Written by: Эрих Мария Ремарк(age 72) 
+19:30:12.835 [main] INFO  StreamTest - Book 'The Hundred-Page Machine Learning Book'
+Written by: А. Бурков(age 40) 
+19:30:12.835 [main] INFO  StreamTest - Book 'Двенадцать стульев'
+Written by: И. Ильф(age 39), Е. Петров(age 40) 
+19:30:12.835 [main] INFO  StreamTest - Book 'Одноэтажная Америка'
+Written by: И. Ильф(age 39), Е. Петров(age 40) 
+19:30:31.861 [main] INFO  StreamTest - 
+
+About authors:
+
+19:30:31.864 [main] INFO  StreamTest - Author: Эрих Мария Ремарк(72),
+Author's books: Три товарища, Ночь в Лиссабоне 
+19:30:31.864 [main] INFO  StreamTest - Author: А. Бурков(40),
+Author's books: The Hundred-Page Machine Learning Book 
+19:30:31.865 [main] INFO  StreamTest - Author: И. Ильф(39),
+Author's books: Двенадцать стульев, Одноэтажная Америка 
+19:30:31.865 [main] INFO  StreamTest - Author: Е. Петров(40),
+Author's books: Двенадцать стульев, Одноэтажная Америка 
+19:30:31.865 [main] INFO  StreamTest - 
+
+About books:
+
+19:30:31.865 [main] INFO  StreamTest - Book 'Три товарища'
+Written by: Эрих Мария Ремарк(age 72) 
+19:30:31.865 [main] INFO  StreamTest - Book 'Ночь в Лиссабоне'
+Written by: Эрих Мария Ремарк(age 72) 
+19:30:31.866 [main] INFO  StreamTest - Book 'The Hundred-Page Machine Learning Book'
+Written by: А. Бурков(age 40) 
+19:30:31.866 [main] INFO  StreamTest - Book 'Двенадцать стульев'
+Written by: И. Ильф(age 39), Е. Петров(age 40) 
+19:30:31.866 [main] INFO  StreamTest - Book 'Одноэтажная Америка'
+Written by: И. Ильф(age 39), Е. Петров(age 40) 
+19:31:32.168 [main] INFO  StreamTest - 
+About books:
+
+19:32:14.315 [main] INFO  StreamTest - 
+About books:
+
+23:36:14.434 [main] INFO  ArraysCreator - called lists constructor
+23:36:14.446 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:39:02.172 [main] INFO  ArraysCreator - called lists constructor
+23:39:02.184 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:39:02.280 [main] INFO  StreamTest - Time passed(ms): 
+23:39:02.290 [main] INFO  StreamTest - 5
+23:40:05.510 [main] INFO  ArraysCreator - called lists constructor
+23:40:05.521 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:40:05.602 [main] INFO  StreamTest - Time passed(ms): 2
+23:40:16.461 [main] INFO  ArraysCreator - called lists constructor
+23:40:16.472 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:40:16.541 [main] INFO  StreamTest - Time passed(ms): 2
+23:40:27.447 [main] INFO  ArraysCreator - called lists constructor
+23:40:27.458 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:40:27.535 [main] INFO  StreamTest - Time passed(ms): 3
+23:40:36.039 [main] INFO  ArraysCreator - called lists constructor
+23:40:36.048 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:40:36.156 [main] INFO  StreamTest - Time passed(ms): 8
+23:40:44.650 [main] INFO  ArraysCreator - called lists constructor
+23:40:44.665 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:40:44.802 [main] INFO  StreamTest - Time passed(ms): 11
+23:40:55.463 [main] INFO  ArraysCreator - called lists constructor
+23:40:55.476 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:40:55.585 [main] INFO  StreamTest - Time passed(ms): 3
+23:41:09.057 [main] INFO  ArraysCreator - called lists constructor
+23:41:09.066 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:41:09.150 [main] INFO  StreamTest - Time passed(ms): 4
+23:50:22.472 [main] INFO  ArraysCreator - called lists constructor
+23:50:22.487 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:50:22.591 [main] INFO  StreamTest - Time passed(ms): 6
+23:53:18.794 [main] INFO  ArraysCreator - called lists constructor
+23:53:18.809 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:53:18.904 [main] INFO  StreamTest - Time passed(ms): 7
+23:54:38.745 [main] INFO  ArraysCreator - called lists constructor
+23:54:38.759 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:54:38.862 [main] INFO  StreamTest - Time passed(ms): 4
+23:54:47.643 [main] INFO  ArraysCreator - called lists constructor
+23:54:47.667 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:54:47.780 [main] INFO  StreamTest - Time passed(ms): 11
+23:54:58.481 [main] INFO  ArraysCreator - called lists constructor
+23:54:58.489 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:54:58.601 [main] INFO  StreamTest - Time passed(ms): 9
+23:55:08.316 [main] INFO  ArraysCreator - called lists constructor
+23:55:08.334 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:55:08.436 [main] INFO  StreamTest - Time passed(ms): 4
+23:55:21.977 [main] INFO  ArraysCreator - called lists constructor
+23:55:21.986 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:55:22.074 [main] INFO  StreamTest - Time passed(ms): 6
+23:55:40.034 [main] INFO  ArraysCreator - called lists constructor
+23:55:40.054 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:55:40.187 [main] INFO  StreamTest - Time passed(ms): 16
+23:56:30.155 [main] INFO  ArraysCreator - called lists constructor
+23:56:30.169 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:56:30.276 [main] INFO  StreamTest - Time passed(ms): 3
+23:56:40.887 [main] INFO  ArraysCreator - called lists constructor
+23:56:40.899 [main] INFO  ArraysCreator - created books and authors lists successfully
+23:56:40.987 [main] INFO  StreamTest - Time passed(ms): 9
+00:09:51.611 [main] INFO  ArraysCreator - called lists constructor
+00:09:51.634 [main] INFO  ArraysCreator - created books and authors lists successfully
+00:09:51.772 [main] INFO  StreamTest - Time passed(ms): 1
+00:10:40.520 [main] INFO  ArraysCreator - called lists constructor
+00:10:40.534 [main] INFO  ArraysCreator - created books and authors lists successfully
+00:10:40.636 [main] INFO  StreamTest - Time passed(ms): 2
+00:16:17.054 [main] INFO  ArraysCreator - called lists constructor
+00:16:17.068 [main] INFO  ArraysCreator - created books and authors lists successfully
+00:16:17.156 [main] INFO  StreamTest - Time passed(ms): 3
+00:21:25.380 [main] INFO  ArraysCreator - called lists constructor
+00:21:25.394 [main] INFO  ArraysCreator - created books and authors lists successfully
+00:21:25.508 [main] INFO  StreamTest - Time passed: 5
+00:25:45.423 [main] INFO  ArraysCreator - called lists constructor
+00:25:45.435 [main] INFO  ArraysCreator - created books and authors lists successfully
+00:25:45.542 [main] INFO  StreamTest - Time passed(ms): 4
+00:26:08.254 [main] INFO  ArraysCreator - called lists constructor
+00:26:08.265 [main] INFO  ArraysCreator - created books and authors lists successfully
+00:26:08.415 [main] INFO  StreamTest - Time passed(ms): 4
+00:29:14.048 [main] INFO  ArraysCreator - called lists constructor
+00:29:14.069 [main] INFO  ArraysCreator - created books and authors lists successfully
+00:29:14.204 [main] INFO  StreamTest - Time passed(ms): 1
+00:29:48.287 [main] INFO  ArraysCreator - called lists constructor
+00:29:48.295 [main] INFO  ArraysCreator - created books and authors lists successfully
+00:29:48.423 [main] INFO  StreamTest - Time passed(ms): 1
+00:30:06.866 [main] INFO  ArraysCreator - called lists constructor
+00:30:06.875 [main] INFO  ArraysCreator - created books and authors lists successfully
+00:30:06.990 [main] INFO  StreamTest - Time passed(ms): 2
+00:30:20.193 [main] INFO  ArraysCreator - called lists constructor
+00:30:20.201 [main] INFO  ArraysCreator - created books and authors lists successfully
+00:30:20.303 [main] INFO  StreamTest - Time passed: 2
+00:30:42.682 [main] INFO  ArraysCreator - called lists constructor
+00:30:42.693 [main] INFO  ArraysCreator - created books and authors lists successfully
+00:30:42.789 [main] INFO  StreamTest - Time passed(ms): 3
+00:41:12.358 [main] INFO  ArraysCreator - called lists constructor
+00:41:12.373 [main] INFO  ArraysCreator - created books and authors lists successfully
+00:41:12.490 [main] INFO  StreamTest - Time passed(ms): 3
+00:41:12.499 [main] INFO  StreamTest - Time passed(ms): 2
+00:43:56.154 [main] INFO  ArraysCreator - called lists constructor
+00:43:56.173 [main] INFO  ArraysCreator - created books and authors lists successfully
+00:43:56.347 [main] INFO  StreamTest - Time passed(ms): 3
+00:43:56.354 [main] INFO  StreamTest - Time passed(ms): 1
+00:44:46.472 [main] INFO  ArraysCreator - called lists constructor
+00:44:46.484 [main] INFO  ArraysCreator - created books and authors lists successfully
+00:44:46.633 [main] INFO  StreamTest - Time passed(ms): 4
+00:44:46.642 [main] INFO  StreamTest - Time passed(ms): 0
+13:29:47.483 [main] INFO  ArraysCreator - called lists constructor
+13:29:47.486 [main] INFO  ArraysCreator - created books and authors lists successfully
+13:29:47.512 [main] INFO  StreamTest - Time passed(ms): 1
+13:30:07.333 [main] INFO  ArraysCreator - called lists constructor
+13:30:07.336 [main] INFO  ArraysCreator - created books and authors lists successfully
+13:30:07.369 [main] INFO  StreamTest - Time passed(ms): 1
+13:30:12.799 [main] INFO  ArraysCreator - called lists constructor
+13:30:12.803 [main] INFO  ArraysCreator - created books and authors lists successfully
+13:30:12.836 [main] INFO  StreamTest - Time passed(ms): 4
+13:30:22.279 [main] INFO  ArraysCreator - called lists constructor
+13:30:22.282 [main] INFO  ArraysCreator - created books and authors lists successfully
+13:30:22.313 [main] INFO  StreamTest - Time passed(ms): 1
+13:52:54.412 [main] INFO  ArraysCreator - called lists constructor
+13:52:54.415 [main] INFO  ArraysCreator - created books and authors lists successfully
+13:53:13.081 [main] INFO  ArraysCreator - called lists constructor
+13:53:13.084 [main] INFO  ArraysCreator - created books and authors lists successfully
+13:55:12.569 [main] INFO  ArraysCreator - called lists constructor
+13:55:12.572 [main] INFO  ArraysCreator - created books and authors lists successfully
+13:55:12.606 [main] INFO  StreamTest - Checking book with 384 pages
+13:55:12.606 [main] INFO  StreamTest - Time passed(ms): 2
+13:57:04.290 [main] INFO  ArraysCreator - called lists constructor
+13:57:04.294 [main] INFO  ArraysCreator - created books and authors lists successfully
+13:57:04.325 [main] INFO  StreamTest - Current max is Три товарища (384 pages)
+13:57:04.325 [main] INFO  StreamTest - Current max is Ночь в Лиссабоне (288 pages)
+13:57:04.325 [main] INFO  StreamTest - Current max is The Hundred-Page Machine Learning Book (100 pages)
+13:57:04.325 [main] INFO  StreamTest - Current max is Двенадцать стульев (414 pages)
+13:57:04.326 [main] INFO  StreamTest - Current max is Одноэтажная Америка (464 pages)
+13:57:04.326 [main] INFO  StreamTest - Time passed(ms): 3
+13:57:29.504 [main] INFO  ArraysCreator - called lists constructor
+13:57:29.507 [main] INFO  ArraysCreator - created books and authors lists successfully
+13:57:29.540 [main] INFO  StreamTest - Current book is Три товарища (384 pages)
+13:57:29.540 [main] INFO  StreamTest - Current book is Ночь в Лиссабоне (288 pages)
+13:57:29.540 [main] INFO  StreamTest - Current book is The Hundred-Page Machine Learning Book (100 pages)
+13:57:29.541 [main] INFO  StreamTest - Current book is Двенадцать стульев (414 pages)
+13:57:29.541 [main] INFO  StreamTest - Current book is Одноэтажная Америка (464 pages)
+13:57:29.541 [main] INFO  StreamTest - Time passed(ms): 2
+13:57:56.581 [main] INFO  ArraysCreator - called lists constructor
+13:57:56.584 [main] INFO  ArraysCreator - created books and authors lists successfully
+13:57:56.614 [main] INFO  StreamTest - Checking book with 384 pages
+13:57:56.614 [main] INFO  StreamTest - Checking book with 288 pages
+13:57:56.614 [main] INFO  StreamTest - Checking book with 100 pages
+13:57:56.614 [main] INFO  StreamTest - Checking book with 414 pages
+13:57:56.614 [main] INFO  StreamTest - Checking book with 464 pages
+13:57:56.614 [main] INFO  StreamTest - Time passed(ms): 1
+13:58:10.843 [main] INFO  ArraysCreator - called lists constructor
+13:58:10.847 [main] INFO  ArraysCreator - created books and authors lists successfully
+13:58:10.877 [main] INFO  StreamTest - Checking book with 384 pages
+13:58:10.877 [main] INFO  StreamTest - Time passed(ms): 1
+14:11:58.742 [main] INFO  ArraysCreator - called lists constructor
+14:11:58.746 [main] INFO  ArraysCreator - created books and authors lists successfully
+14:11:58.774 [main] INFO  StreamTest - Current book is Три товарища (384 pages)
+14:11:58.775 [main] INFO  StreamTest - Current book is Ночь в Лиссабоне (288 pages)
+14:11:58.775 [main] INFO  StreamTest - Current book is The Hundred-Page Machine Learning Book (100 pages)
+14:11:58.775 [main] INFO  StreamTest - Current book is Двенадцать стульев (414 pages)
+14:11:58.775 [main] INFO  StreamTest - Current book is Одноэтажная Америка (464 pages)
+14:11:58.775 [main] INFO  StreamTest - Time passed(ms): 2
+14:11:58.785 [main] INFO  StreamTest - Checking book with 384 pages
+14:11:58.785 [main] INFO  StreamTest - Time passed(ms): 1
+14:14:11.738 [main] INFO  ArraysCreator - called lists constructor
+14:14:11.741 [main] INFO  ArraysCreator - created books and authors lists successfully
+14:14:53.130 [main] INFO  ArraysCreator - called lists constructor
+14:14:53.133 [main] INFO  ArraysCreator - created books and authors lists successfully
+14:14:53.161 [main] INFO  StreamTest - Current book is Три товарища (384 pages)
+14:14:53.161 [main] INFO  StreamTest - Current book is Ночь в Лиссабоне (288 pages)
+14:14:53.161 [main] INFO  StreamTest - Current book is The Hundred-Page Machine Learning Book (100 pages)
+14:14:53.161 [main] INFO  StreamTest - Current book is Двенадцать стульев (414 pages)
+14:14:53.161 [main] INFO  StreamTest - Current book is Одноэтажная Америка (464 pages)
+14:14:53.162 [main] INFO  StreamTest - Time passed(ms): 3
+14:14:53.164 [main] INFO  StreamTest - Time passed(ms): 2
+14:14:53.165 [main] INFO  StreamTest - Time passed(ms): 0
+14:14:53.166 [main] INFO  StreamTest - Time passed(ms): 0
+14:14:53.168 [main] INFO  StreamTest - Checking book with 384 pages
+14:14:53.168 [main] INFO  StreamTest - Time passed(ms): 1
+14:14:53.168 [main] INFO  StreamTest - Time passed(ms): 0
+14:14:53.170 [main] INFO  StreamTest - Time passed(ms): 1
+14:14:53.171 [main] INFO  StreamTest - Time passed(ms): 0
+14:14:53.174 [main] INFO  StreamTest - Time passed(ms): 1
+14:14:53.175 [main] INFO  StreamTest - Time passed: 0
+14:16:09.364 [main] INFO  ArraysCreator - called lists constructor
+14:16:09.367 [main] INFO  ArraysCreator - created books and authors lists successfully
+14:16:09.395 [main] INFO  StreamTest - Time passed(ms): 1
+14:16:09.398 [main] INFO  StreamTest - Time passed(ms): 2
+14:16:09.399 [main] INFO  StreamTest - Time passed(ms): 1
+14:16:09.399 [main] INFO  StreamTest - Time passed(ms): 0
+14:16:09.401 [main] INFO  StreamTest - Checking book with 384 pages
+14:16:09.401 [main] INFO  StreamTest - Time passed(ms): 1
+14:16:09.402 [main] INFO  StreamTest - Time passed(ms): 0
+14:16:09.403 [main] INFO  StreamTest - Time passed(ms): 0
+14:16:09.404 [main] INFO  StreamTest - Time passed(ms): 1
+14:16:09.405 [main] INFO  StreamTest - Time passed(ms): 0
+14:16:09.406 [main] INFO  StreamTest - Time passed: 0
+14:17:28.047 [main] INFO  ArraysCreator - called lists constructor
+14:17:28.050 [main] INFO  ArraysCreator - created books and authors lists successfully
+14:17:28.078 [main] INFO  StreamTest - Time passed(ms): 1
+14:17:28.081 [main] INFO  StreamTest - Time passed(ms): 1(with parallel())
+14:17:28.083 [main] INFO  StreamTest - Time passed(ms): 1
+14:17:28.083 [main] INFO  StreamTest - Time passed(ms): 0
+14:17:28.085 [main] INFO  StreamTest - Checking book with 384 pages
+14:17:28.085 [main] INFO  StreamTest - Time passed(ms): 1
+14:17:28.086 [main] INFO  StreamTest - Time passed(ms): 1
+14:17:28.087 [main] INFO  StreamTest - Time passed(ms): 0
+14:17:28.088 [main] INFO  StreamTest - Time passed(ms): 0
+14:17:28.090 [main] INFO  StreamTest - Time passed(ms): 0
+14:17:28.091 [main] INFO  StreamTest - Time passed: 0
+14:18:55.369 [main] INFO  ArraysCreator - called lists constructor
+14:18:55.372 [main] INFO  ArraysCreator - created books and authors lists successfully
+14:18:55.406 [main] INFO  StreamTest - Time passed(ms): 1035700
+14:18:55.409 [main] INFO  StreamTest - Time passed(ms): 1878100(with parallel())
+14:18:55.410 [main] INFO  StreamTest - Time passed(ms): 398900
+14:18:55.411 [main] INFO  StreamTest - Time passed(ms): 230000
+14:18:55.412 [main] INFO  StreamTest - Checking book with 384 pages
+14:18:55.412 [main] INFO  StreamTest - Time passed(ms): 1178000
+14:18:55.413 [main] INFO  StreamTest - Time passed(ms): 177500
+14:18:55.413 [main] INFO  StreamTest - Time passed(ms): 168400
+14:18:55.414 [main] INFO  StreamTest - Time passed(ms): 150800
+14:18:55.416 [main] INFO  StreamTest - Time passed(ms): 302200
+14:18:55.417 [main] INFO  StreamTest - Time passed: 615500
+15:16:07.121 [main] INFO  ArraysCreator - called lists constructor
+15:16:07.125 [main] INFO  ArraysCreator - created books and authors lists successfully
+15:16:07.160 [main] INFO  StreamTest - Time passed(ms): 472100
+15:16:48.243 [main] INFO  ArraysCreator - called lists constructor
+15:16:48.247 [main] INFO  ArraysCreator - created books and authors lists successfully
+15:16:48.289 [main] INFO  StreamTest - Time passed(ms): 526700
+15:17:15.444 [main] INFO  ArraysCreator - called lists constructor
+15:17:15.449 [main] INFO  ArraysCreator - created books and authors lists successfully
+15:17:15.490 [main] INFO  StreamTest - Time passed(ms): 498100
+15:17:21.549 [main] INFO  ArraysCreator - called lists constructor
+15:17:21.553 [main] INFO  ArraysCreator - created books and authors lists successfully
+15:17:21.585 [main] INFO  StreamTest - Time passed(ms): 341400
+15:17:29.831 [main] INFO  ArraysCreator - called lists constructor
+15:17:29.834 [main] INFO  ArraysCreator - created books and authors lists successfully
+15:17:29.869 [main] INFO  StreamTest - Time passed(ms): 431300
+15:17:35.957 [main] INFO  ArraysCreator - called lists constructor
+15:17:35.961 [main] INFO  ArraysCreator - created books and authors lists successfully
+15:17:36.001 [main] INFO  StreamTest - Time passed(ms): 422700
+15:17:44.945 [main] INFO  ArraysCreator - called lists constructor
+15:17:44.949 [main] INFO  ArraysCreator - created books and authors lists successfully
+15:17:44.986 [main] INFO  StreamTest - Time passed(ms): 371500
